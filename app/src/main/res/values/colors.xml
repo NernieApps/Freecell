@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F5DC</color> <!-- Off-white -->
+    <color name="red_suit">#FF0000</color> <!-- Bright Red -->
+    <color name="black_suit">#000000</color> <!-- Deep Black -->
+    <color name="card_border">#808080</color> <!-- Gray -->
+</resources>
